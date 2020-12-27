@@ -14,5 +14,9 @@ Some useful shell scripts to compile and run C++ , C and Java Programs
 <strong> `./outjava.sh` </strong>
 
 # NOTE
-1.) Hereby, we are reading input from a `input.txt` file in all cases.
-2.) The script runs `test.java` file , it can be changed as per our convinience
+<ul>
+  <li>The input is read from a <strong>input.txt</strong> file. If you don't want it then modify .sh files as required. </li>
+  <li>Here we are assuming that java file name is <strong>"test.java"</strong> which can be changed later as per convinience</li>
+  <li>Don't forget to make <strong>input.txt</strong> and <strong>output.txt</strong> files in the same directory in which your program is.</li>
+  <li>If the <strong>input.txt</strong> and <strong>output.txt</strong> reside in any other place , provide full path in .sh files</li>
+  </ul>
