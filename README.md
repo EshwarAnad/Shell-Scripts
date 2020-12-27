@@ -2,7 +2,7 @@
 Some useful shell scripts to compile and run C++ , C and Java Programs
 
 # To run cpp files and see output in terminal
-./cpp.sh file_name.cpp
+<block> ./cpp.sh file_name.cpp </block>
 
 # To run cpp files and store output in output.txt
 ./outcpp.sh file_name.cpp
