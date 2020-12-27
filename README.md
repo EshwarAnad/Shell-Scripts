@@ -1,5 +1,5 @@
 # Shell-Scripts
-Some useful shell scripts to compile and run C++ , C and Java Programs
+Some useful shell scripts to compile and run C++ , C and Java Programs. Some other scripts are also in others folder.
 
 # To run cpp files and see output in terminal
 <strong> `./cpp.sh file_name.cpp` </strong>
